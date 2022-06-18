@@ -1,3 +1,7 @@
+UPDATE: Simplifed code, little tuned up and fixed the bugs.
+
+
+
 # CS:GO Advanced Drop
 Attempts to drop drops for the duration of the map. It sends the falling drops to the discord server in an advanced way.
 
